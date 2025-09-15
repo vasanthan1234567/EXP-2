@@ -1,6 +1,7 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
-
+## NAME : VASANTHAN.N
+## REGISTER NUMBER:212224240180
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
@@ -23,6 +24,7 @@ No load test
 Load test
 
 125 % of rated current (full load current)
+
 
 Precautions
 
@@ -49,15 +51,26 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+
+<img width="166" height="132" alt="Screenshot 2025-09-15 141700" src="https://github.com/user-attachments/assets/2b900802-eb24-454e-95d5-d4dd39142e66" />
+
 Tabulation for Load Test:
 
+
+
+<img width="128" height="116" alt="Screenshot 2025-09-15 141708" src="https://github.com/user-attachments/assets/0e1d044b-e8cb-4d6a-bba2-b2685573e740" />
+
+
 Model graph:
+
+<img width="729" height="280" alt="Screenshot 2025-09-15 141537" src="https://github.com/user-attachments/assets/734276b4-b89c-48f2-ba3d-f13e87f21e76" />
 Calculation: 
 
 Open circuit characteristics
-
+<img width="1920" height="1200" alt="Screenshot 2025-09-15 132432" src="https://github.com/user-attachments/assets/885bcb1a-13af-4c8b-a8e9-526478bda177" />
   
 Load Characteristics:
- 
+ <img width="1920" height="1200" alt="Screenshot 2025-09-15 135858" src="https://github.com/user-attachments/assets/0d9dab9f-d130-49f1-825f-ad3d2e85ee3a" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
